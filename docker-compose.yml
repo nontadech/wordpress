@@ -23,6 +23,7 @@ services:
       - wp_data:/var/www/html
     ports:
       - 80:80
+      - 433:433
     restart: always
     environment:
       - WORDPRESS_DB_HOST=db
