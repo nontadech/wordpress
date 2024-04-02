@@ -22,6 +22,7 @@ services:
     volumes:
       - wp_data:/var/www/html
     ports:
+      - 80:80
       - 433:433
     restart: always
     environment:
