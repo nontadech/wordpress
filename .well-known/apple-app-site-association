@@ -1,0 +1,13 @@
+{
+    "applinks":{
+       "apps":[],
+       "details":[
+          {
+             "appID":"9875QRP7K5.com.tridept.vendor",
+             "paths":[
+                "*"
+             ]
+          }
+       ]
+    }
+ }
